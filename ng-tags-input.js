@@ -7,6 +7,25 @@
  *
  * Generated at 2015-07-13 02:08:11 -0300
  */
+ 
+           //<tags-input
+          //  ng-model="PostRegister.tags"
+          //  add-from-autocomplete-only="true"
+          //  placeholder="학교를 선택하세요"
+          //>
+          //  <auto-complete source="PostRegister.getSchools()"
+          //    max-results-to-show="5"
+          //    min-length="1"
+          //    filter-results="true"
+          //  ></auto-complete>
+          //</tags-input>
+          
+          // ngTagsInput.scss 
+
+ 
+ 
+ 
+ 
 (function() {
   'use strict';
 
